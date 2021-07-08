@@ -40,3 +40,67 @@
 .Header-all-line {
   color: white;
 }
+
+.Header-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Header-first-line {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+
+.Header-second-line {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.Header-third-line {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  padding-bottom: 80px;
+  font-size: 30px;
+}
+
+.Header-link {
+  display: flex;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.Header-all-link {
+  text-decoration: none;
+  padding: 20px 60px;
+  border-radius: 500px;
+  color: white;
+  font-size: 17px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+}
+
+.Header-first-link {
+  margin-right: 20px;
+  background-color: orangered;
+}
+
+.Header-second-link {
+  margin-left: 20px;
+  border: 1px solid white;
+}
+
+/* 
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; 
+*/
