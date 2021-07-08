@@ -10,7 +10,7 @@
 }
 
 .Window1 {
-  height: 200vh;
+  height: 165vh;
 }
 
 .Header-head {
@@ -97,6 +97,10 @@
 .Header-second-link {
   margin-left: 20px;
   border: 1px solid white;
+}
+
+.Two-phones {
+  margin: -190px 0px 0px 400px;
 }
 
 /* 
