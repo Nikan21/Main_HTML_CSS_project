@@ -1,17 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Poppins:wght@600;700&family=Roboto:wght@700&display=swap");
+
 * {
   box-sizing: border-box;
   margin: 0;
 }
 
-.Content{
+.Content {
   max-width: 1440px;
 }
 
-.Window1{
+.Window1 {
   height: 200vh;
 }
 
-.Header-head{
+.Header-head {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -20,21 +22,21 @@
   border: 1px solid;
 }
 
-.Logo{
+.Logo {
   padding-left: 80px;
 }
 
-.Burger{
+.Burger {
   padding-right: 30px;
 }
 
-.Header-main{
+.Header-main {
   height: 80vh;
   border: 1px solid;
   background: url(../images/Background-food.png) center no-repeat;
   background-size: cover;
 }
 
-.Header-all-line{
+.Header-all-line {
   color: white;
 }
