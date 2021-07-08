@@ -6,3 +6,24 @@
 .Content{
   max-width: 1440px;
 }
+
+.Window1{
+  height: 200vh;
+}
+
+.Header-head{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 20vh;
+  border: 1px solid;
+}
+
+.Logo{
+  padding-left: 80px;
+}
+
+.Burger{
+  padding-right: 30px;
+}
