@@ -103,6 +103,67 @@
   margin: -190px 0px 0px 400px;
 }
 
+.Window2 {
+  height: 100vh;
+}
+
+.hr {
+  max-width: 50%;
+  margin: 0 auto;
+  height: 2px;
+  background-color: #e4e4e4;
+  border: none;
+  border-radius: 5%;
+}
+
+.Main-head {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  padding-top: 40px;
+}
+
+.Main-content {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 150px;
+}
+
+.Phone1 {
+  filter: drop-shadow(50px 30px 150px rgba(46, 4, 4, 0.15));
+}
+
+.Main-text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 160px;
+  max-width: 33%;
+}
+
+.Main-first-line {
+  text-decoration: none;
+  color: orangered;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  padding-bottom: 20px;
+}
+
+.Main-second-line {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 27px;
+  padding-bottom: 25px;
+}
+
+.Main-third-line {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  color: grey;
+}
+
 /* 
 font-family: 'Montserrat', sans-serif;
 font-family: 'Poppins', sans-serif;
