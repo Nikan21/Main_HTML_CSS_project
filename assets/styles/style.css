@@ -98,7 +98,7 @@
 }
 
 .Two-phones {
-  margin: -170px 0px 0px 400px;
+  margin: -150px 0px 0px 400px;
 }
 
 .Window2 {
@@ -164,7 +164,7 @@
 }
 
 .Window3 {
-  height: 80vh;
+  height: 90vh;
 }
 
 .Main-content-2 {
@@ -186,6 +186,33 @@
   height: 100vh;
 }
 
+.Footer-main{
+  height: 80vh;
+  background: url(../images/Background_picture.png) center no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Footer-all-line{
+  color: white;
+}
+
+.Footer-first-line{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 35px;
+  padding-bottom: 200px;
+}
+
+.Footer-second-line{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  padding-bottom: 250px;
+}
 /* 
 font-family: 'Montserrat', sans-serif;
 font-family: 'Poppins', sans-serif;
