@@ -21,7 +21,7 @@
   height: 20vh;
 }
 
-.Logo {
+.Header-logo {
   padding-left: 80px;
 }
 
@@ -98,7 +98,7 @@
 }
 
 .Two-phones {
-  margin: -190px 0px 0px 400px;
+  margin: -170px 0px 0px 400px;
 }
 
 .Window2 {
@@ -141,7 +141,7 @@
   max-width: 33%;
 }
 
-.Main-first-line {
+.Main-first-link {
   text-decoration: none;
   color: orangered;
   font-family: "Montserrat", sans-serif;
@@ -181,6 +181,7 @@
   margin-right: 160px;
   max-width: 33%;
 }
+
 /* 
 font-family: 'Montserrat', sans-serif;
 font-family: 'Poppins', sans-serif;
