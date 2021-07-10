@@ -1,0 +1,92 @@
+@media (max-width: 414px) {
+  .Header-head {
+    height: 10vh;
+    display: flex;
+    align-items: center;
+  }
+
+  .Header-logo {
+    max-width: 143px;
+    padding-left: 20px;
+  }
+
+  .Burger {
+    padding-right: 20px;
+  }
+
+  .Header-main {
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: none;
+  }
+
+  .Header-all-line {
+    color: black;
+  }
+
+  .Header-first-line{
+      padding-bottom: 0;
+      font-family: "Montserrat", sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+  }
+
+  .Header-second-desktop-line{
+      display: none;
+  }
+
+  .Header-second-mobile-line{
+      display: block;
+  }
+
+  .Header-second-line{
+      font-weight: 700;
+      text-align: center;
+      font-family: "Montserrat", sans-serif;
+      font-size: 35px;
+  }
+
+  .Header-third-line{
+    text-align: center;
+    padding-bottom: 40px;
+    font-weight: 100;
+    font-family: "Montserrat", sans-serif;
+    font-size: 27px;
+    color: gray;
+  }
+
+  .Header-link{
+      display: flex;
+      flex-direction: column;
+  }
+
+  .Header-all-link{
+      margin: 0;
+  }
+
+  .Header-first-link{
+    margin-bottom: 5px;
+  }
+
+  .Header-second-link{
+    margin-top: 5px;
+    border: 1px solid orangered;
+    color: orangered;
+    background-color: white;
+  }
+
+  .Two-phones-wrapper{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+  }
+
+  .Two-phones{
+    max-width: 400px;
+    margin: -125px 0 0 0;
+  }
+}
