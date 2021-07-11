@@ -152,6 +152,10 @@
   color: grey;
 }
 
+.Main-mobile-third-line{
+  display: none;
+}
+
 .Main-all-line {
   font-family: "Montserrat", sans-serif;
 }
