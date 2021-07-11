@@ -183,6 +183,10 @@
   flex-direction: column;
 }
 
+.Main-mobile-content-2{
+  display: none;
+}
+
 .Window4 {
   height: 100vh;
 }
