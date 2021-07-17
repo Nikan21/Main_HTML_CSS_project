@@ -176,6 +176,10 @@
   align-items: center;
 }
 
+.Main-mobile-content-2{
+  display: none;
+}
+
 .Main-text-2 {
   max-width: 33%;
   margin-right: 160px;
@@ -183,15 +187,11 @@
   flex-direction: column;
 }
 
-.Main-mobile-content-2{
-  display: none;
-}
-
 .Window4 {
   height: 100vh;
 }
 
-.Footer-main {
+.Footer-desktop-main {
   height: 80vh;
   display: flex;
   flex-direction: column;
@@ -199,6 +199,10 @@
   align-items: center;
   background: url(../images/Background_picture.png) center no-repeat;
   background-size: cover;
+}
+
+.Footer-mobile-main{
+  display: none;
 }
 
 .Footer-all-line {
