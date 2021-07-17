@@ -1,4 +1,8 @@
 @media (max-width: 414px) {
+  .Window1 {
+    height: 160vh;
+  }
+
   .Header-head {
     height: 10vh;
     display: flex;
@@ -99,7 +103,7 @@
   }
 
   .Window2 {
-    height: 95vh;
+    height: 105vh;
   }
 
   .Main-flex-wrapper {
