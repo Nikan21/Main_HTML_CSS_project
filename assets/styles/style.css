@@ -152,7 +152,7 @@
   color: grey;
 }
 
-.Main-mobile-third-line{
+.Main-mobile-third-line {
   display: none;
 }
 
@@ -176,7 +176,7 @@
   align-items: center;
 }
 
-.Main-mobile-content-2{
+.Main-mobile-content-2 {
   display: none;
 }
 
@@ -201,7 +201,7 @@
   background-size: cover;
 }
 
-.Footer-mobile-main{
+.Footer-mobile-main {
   display: none;
 }
 
@@ -262,9 +262,3 @@
 .Footer-second-image {
   margin: 0 20px 0;
 }
-
-/* 
-font-family: 'Montserrat', sans-serif;
-font-family: 'Poppins', sans-serif;
-font-family: 'Roboto', sans-serif; 
-*/
