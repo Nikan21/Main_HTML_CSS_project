@@ -141,6 +141,10 @@
   color: orangered;
 }
 
+.Main-first-second-line {
+  font-weight: 700;
+}
+
 .Main-second-line {
   padding-bottom: 25px;
   font-size: 27px;
@@ -158,10 +162,6 @@
 
 .Main-all-line {
   font-family: "Montserrat", sans-serif;
-}
-
-.Main-first-second-line {
-  font-weight: 700;
 }
 
 .Window3 {
