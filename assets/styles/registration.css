@@ -71,3 +71,10 @@
 ::placeholder{
     color: orangered;
 }
+
+@media (max-width: 414px) {
+    .Register{
+        height: 75vh;
+        width: 95%;
+    }
+}
