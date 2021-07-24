@@ -6,11 +6,11 @@
 }
 
 .Window1 {
-  height: 175vh;
+  min-height: 175vh;
 }
 
 .Header-head {
-  height: 20vh;
+  min-height: 20vh;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -26,7 +26,7 @@
 }
 
 .Header-main {
-  height: 80vh;
+  min-height: 80vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -100,11 +100,11 @@
 }
 
 .Window2 {
-  height: 80vh;
+  min-height: 80vh;
 }
 
 .Hr {
-  height: 2px;
+  min-height: 2px;
   max-width: 50%;
   margin: 0 auto;
   border: none;
@@ -169,7 +169,7 @@
 }
 
 .Window3 {
-  height: 110vh;
+  min-height: 110vh;
 }
 
 .Main-content-2 {
@@ -192,11 +192,11 @@
 }
 
 .Window4 {
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .Footer-desktop-main {
-  height: 80vh;
+  min-height: 80vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -247,7 +247,7 @@
 }
 
 .Footer-foot {
-  height: 20vh;
+  min-height: 20vh;
   display: flex;
   justify-content: space-around;
   align-items: center;
