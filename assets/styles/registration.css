@@ -74,7 +74,7 @@
 
 @media (max-width: 414px) {
     .Register{
-        min-height: 75vh;
+        min-height: 85vh;
         min-width: 95%;
     }
 }
