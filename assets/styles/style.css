@@ -91,6 +91,10 @@
   border: 1px solid white;
 }
 
+.Two-phones-wrapper{
+  text-align: center;
+}
+
 .Two-phones {
   margin: -150px 0 0 0;
 }
