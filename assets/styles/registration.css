@@ -4,8 +4,8 @@
 }
 
 .Window1{
-    height: 100vh;
-    width: 100%;
+    min-height: 100vh;
+    min-width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,8 +14,8 @@
 }
 
 .Register{
-    height: 70vh;
-    width: 30%;
+    min-height: 70vh;
+    min-width: 30%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -55,8 +55,8 @@
 }
 
 .Checkbox{
-    height: 17px;
-    width: 30px;
+    min-height: 17px;
+    min-width: 30px;
 }
 
 .Confirm_button{
@@ -74,7 +74,7 @@
 
 @media (max-width: 414px) {
     .Register{
-        height: 75vh;
-        width: 95%;
+        min-height: 75vh;
+        min-width: 95%;
     }
 }
