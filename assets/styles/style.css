@@ -124,7 +124,7 @@
   padding-top: 150px;
   display: flex;
   flex-flow: row nowrap;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
 }
 
@@ -134,9 +134,9 @@
 
 .Main-text-1 {
   max-width: 33%;
-  margin-left: 160px;
   display: flex;
   flex-direction: column;
+
 }
 
 .Main-first-line {
@@ -176,7 +176,7 @@
   padding-top: 150px;
   display: flex;
   flex-flow: row-reverse nowrap;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
 }
 
@@ -186,7 +186,6 @@
 
 .Main-text-2 {
   max-width: 33%;
-  margin-right: 160px;
   display: flex;
   flex-direction: column;
 }
